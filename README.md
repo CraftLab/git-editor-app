@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Git Editor<small></h1>
 
-This is a repository for the users of Git Editor to report issues 😱 and feature ideas 🤩.
+This is a repository for the users of Git Editor to report [issues](https://github.com/CraftLab/git-editor-app/projects/2) 😱 and [feature ideas](https://github.com/CraftLab/git-editor-app/projects/2) 🤩.
 
 ---
 
