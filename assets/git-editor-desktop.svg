@@ -14,9 +14,8 @@
                                 <path d="M5487.94,2352.18C5487.94,2319.16 5449.01,2292.36 5401.04,2292.36L4766.07,2292.36C4718.1,2292.36 4679.16,2319.16 4679.16,2352.18L4679.16,2789.24C4679.16,2822.25 4718.1,2849.06 4766.07,2849.06L5401.04,2849.06C5449.01,2849.06 5487.94,2822.25 5487.94,2789.24L5487.94,2352.18Z" style="fill:rgb(2,13,85);"/>
                             </g>
                             <g transform="matrix(1,0,0,1,344,-344)">
-                                <text x="5148.69px" y="2798.05px" style="font-family:'Bangers-Regular', 'Bangers';font-size:48px;fill:white;">web client</text>
-                                <text x="5141.91px" y="2836.05px" style="font-family:'Bangers-Regular', 'Bangers';font-size:26px;fill:rgb(255,0,154);">editor</text>
-                                <text x="5201.26px" y="2836.05px" style="font-family:'Bangers-Regular', 'Bangers';font-size:26px;fill:white;">.giteditor.app</text>
+                                <text x="5166.21px" y="2787.05px" style="font-family:'Bangers-Regular', 'Bangers';font-size:48px;fill:white;">desktop</text>
+                                <text x="5186.25px" y="2847.05px" style="font-family:'Bangers-Regular', 'Bangers';font-size:48px;fill:white;">client</text>
                             </g>
                         </g>
                         <g>
